@@ -236,12 +236,14 @@
       <section class="popular" id="destination">
         <div class="container">
 
-          <p class="section-subtitle">Uncover Malaysia</p>
+          <p class="section-subtitle">Uncover place</p>
 
-          <h2 class="h2 section-title">Popular Destinationss</h2>
+          <h2 class="h2 section-title">Popular destination</h2>
 
           <p class="section-text">
-            Experience Malaysia’s vibrant cities, stunning islands, and rich cultural heritage. From the soaring towers of Kuala Lumpur to the beaches of Langkawi, adventure and unforgettable flavors await at every turn.
+            Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium.
+            Sit ornare
+            mollitia tenetur, aptent.
           </p>
 
           <ul class="popular-list">
@@ -250,7 +252,7 @@
               <div class="popular-card">
 
                 <figure class="card-img">
-                  <img src="./assets/images/klcc-1.jpg" alt="Kuala Lumpur City Centre" loading="lazy">
+                  <img src="./assets/images/popular-1.jpg" alt="San miguel, italy" loading="lazy">
                 </figure>
 
                 <div class="card-content">
@@ -264,15 +266,15 @@
                   </div>
 
                   <p class="card-subtitle">
-                    <a href="#">Kuala Lumpur</a>
+                    <a href="#">Italy</a>
                   </p>
 
                   <h3 class="h3 card-title">
-                    <a href="#">Petronas Twin Towers</a>
+                    <a href="#">San miguel</a>
                   </h3>
 
                   <p class="card-text">
-                    Iconic twin skyscrapers soaring over Kuala Lumpur.
+                    Fusce hic augue velit wisi ips quibusdam pariatur, iusto.
                   </p>
 
                 </div>
